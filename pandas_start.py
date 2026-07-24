@@ -10,3 +10,6 @@ print(df)
 print(df["Naam"])
 print(df.loc[1])
 print(df[df["Age"]> 20])
+
+sorted_df = df.sort_values("Marks")
+print(sorted_df)
