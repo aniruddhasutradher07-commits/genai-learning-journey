@@ -8,7 +8,7 @@ GenAI Specialist banna, graduating 2029 mein CUTM se (B.Tech Biotechnology).
 ## 📚 Roadmap
 - [x] Phase 1: Programming Foundation (Python basics, conditionals, loops, functions, data structures, OOP, error handling, modules)
 - [x] Phase 2: Math & Stats Foundation (vectors, matrix, probability, statistics)
-- [ ] Phase 3: Data Handling (NumPy, Pandas, visualization)
+- [x] Phase 3: Data Handling (NumPy, Pandas, visualization)
 - [ ] Phase 4: Machine Learning Fundamentals
 - [ ] Phase 5: Deep Learning
 - [ ] Phase 6: NLP
