@@ -20,3 +20,27 @@ GenAI Specialist banna, graduating 2029 mein CUTM se (B.Tech Biotechnology).
 
 ## 👨‍💻 About Me
 B.Tech Biotechnology student, building AI/ML projects alongside coursework.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
