@@ -29,6 +29,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0001-two-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0027-remove-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -81,4 +82,5 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
