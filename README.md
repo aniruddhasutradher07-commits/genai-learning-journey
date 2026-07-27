@@ -59,4 +59,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
