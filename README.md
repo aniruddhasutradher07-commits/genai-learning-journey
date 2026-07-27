@@ -39,6 +39,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
