@@ -31,6 +31,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0066-plus-one) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
