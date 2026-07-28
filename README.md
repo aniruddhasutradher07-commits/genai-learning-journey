@@ -51,6 +51,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0013-roman-to-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
