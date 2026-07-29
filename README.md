@@ -42,6 +42,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0027-remove-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -104,6 +106,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
