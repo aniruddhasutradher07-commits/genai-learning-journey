@@ -7,6 +7,8 @@ print(df.head())
 print(df.info())
 print(df.shape)
 
+print(df.describe())
+
 print(df["Symptoms"].value_counts())
 
 print(df["Exercise Frequency"].unique())
