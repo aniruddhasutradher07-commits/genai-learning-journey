@@ -17,6 +17,16 @@ GenAI Specialist banna, graduating 2029 mein CUTM se (B.Tech Biotechnology).
 - [ ] Phase 9: Deployment & Tools
 - [ ] Phase 10: Biotech + GenAI Specialization
 
+## 🩺 Featured Project: Menstrual Health Data Analysis
+
+Analyzed a real Kaggle dataset (895 records) exploring relationships between lifestyle factors (diet, exercise, stress) and menstrual health symptoms/cycle patterns.
+
+**Key Skills Used:** Pandas, Data Cleaning, GroupBy Analysis, Matplotlib Visualization
+
+**Key Insight:** Diet type showed a mild correlation with stress levels — "Balanced" diet correlated with lowest average stress, while "Low Carb" showed highest.
+
+[View Project](First_Project/archive/project_menstrual.py)
+
 
 ## 👨‍💻 About Me
 B.Tech Biotechnology student, building AI/ML projects alongside coursework.
