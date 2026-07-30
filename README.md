@@ -10,6 +10,12 @@ GenAI Specialist banna, graduating 2029 mein CUTM se (B.Tech Biotechnology).
 - [x] Phase 2: Math & Stats Foundation (vectors, matrix, probability, statistics)
 - [x] Phase 3: Data Handling (NumPy, Pandas, visualization)
 - [ ] Phase 4: Machine Learning Fundamentals
+  - [x] What is ML (Supervised/Unsupervised/Reinforcement)
+  - [ ] Regression
+  - [ ] Classification
+  - [ ] Clustering
+  - [ ] Model Evaluation
+  - [ ] Scikit-learn
 - [ ] Phase 5: Deep Learning
 - [ ] Phase 6: NLP
 - [ ] Phase 7: Transformers & LLMs
