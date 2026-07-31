@@ -56,6 +56,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0001-two-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0013-roman-to-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -86,11 +87,13 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,4 +187,12 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
