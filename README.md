@@ -50,6 +50,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0066-plus-one](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -77,12 +78,14 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -147,6 +150,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -219,4 +223,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
