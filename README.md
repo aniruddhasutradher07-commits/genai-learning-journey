@@ -113,6 +113,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0176-second-highest-salary) |
 ## Trie
 |  |
 | ------- |
