@@ -58,6 +58,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0013-roman-to-integer) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -89,6 +90,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0020-valid-parentheses) |
@@ -231,4 +233,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
