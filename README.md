@@ -88,6 +88,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Recursion
@@ -172,6 +173,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -258,6 +260,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 ## Graph Theory
 |  |
 | ------- |
@@ -275,4 +278,5 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
