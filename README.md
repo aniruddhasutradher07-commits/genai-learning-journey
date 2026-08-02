@@ -86,6 +86,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0069-sqrtx](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
@@ -269,14 +270,20 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
