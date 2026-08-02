@@ -201,6 +201,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0110-balanced-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
+| [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,6 +267,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
+| [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -286,4 +288,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
