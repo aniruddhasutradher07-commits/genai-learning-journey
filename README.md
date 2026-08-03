@@ -159,6 +159,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0020-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -232,6 +234,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
@@ -245,6 +248,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
