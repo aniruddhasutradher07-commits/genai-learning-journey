@@ -75,6 +75,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0021-merge-two-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -152,6 +154,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0027-remove-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 ## String Matching
 |  |
@@ -228,6 +231,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -299,4 +303,5 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
