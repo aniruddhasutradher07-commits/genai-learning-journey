@@ -53,6 +53,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0118-pascals-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
@@ -179,6 +180,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0136-single-number) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
