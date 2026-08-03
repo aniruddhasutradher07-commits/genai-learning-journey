@@ -50,6 +50,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0066-plus-one](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
@@ -183,6 +184,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
