@@ -71,6 +71,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -81,6 +82,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0021-merge-two-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 ## Math
 |  |
@@ -164,6 +166,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
@@ -329,4 +332,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
