@@ -203,6 +203,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -213,6 +214,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
@@ -225,6 +227,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -232,6 +235,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0101-symmetric-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Divide and Conquer
