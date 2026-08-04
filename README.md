@@ -73,6 +73,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -86,6 +87,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0125-valid-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
