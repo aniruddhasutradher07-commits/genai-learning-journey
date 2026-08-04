@@ -61,6 +61,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
+| [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -136,6 +138,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
