@@ -244,6 +244,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
+| [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,6 +267,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Divide and Conquer
 |  |
@@ -319,6 +321,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
+| [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 ## Rejection Sampling
 |  |
 | ------- |
