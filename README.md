@@ -162,6 +162,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0178-rank-scores](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0182-duplicate-emails) |
 ## Trie
 |  |
 | ------- |
