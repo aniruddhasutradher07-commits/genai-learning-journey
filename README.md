@@ -203,6 +203,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0191-number-of-1-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
@@ -286,6 +287,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
