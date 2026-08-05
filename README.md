@@ -73,6 +73,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -86,6 +87,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
@@ -355,4 +357,12 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
