@@ -95,6 +95,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 ## String
 |  |
