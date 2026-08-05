@@ -190,6 +190,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0094-binary-tree-inorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0225-implement-stack-using-queues) |
 ## Two Pointers
 |  |
 | ------- |
@@ -391,6 +392,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -399,4 +401,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
