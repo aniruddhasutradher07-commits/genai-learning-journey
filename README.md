@@ -78,6 +78,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0160-intersection-of-two-linked-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0205-isomorphic-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +138,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0205-isomorphic-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
