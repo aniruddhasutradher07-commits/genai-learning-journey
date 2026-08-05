@@ -57,6 +57,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0169-majority-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
