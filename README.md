@@ -59,6 +59,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0219-contains-duplicate-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
@@ -209,6 +210,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0148-sort-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0283-move-zeroes) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
