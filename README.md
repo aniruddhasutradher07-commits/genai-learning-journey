@@ -249,6 +249,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0035-search-insert-position](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
@@ -472,4 +473,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
