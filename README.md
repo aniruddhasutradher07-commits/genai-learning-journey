@@ -165,6 +165,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0168-excel-sheet-column-title](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -293,6 +294,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -308,6 +310,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
@@ -325,6 +328,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -374,6 +378,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
