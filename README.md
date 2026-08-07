@@ -123,6 +123,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
@@ -142,6 +143,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0021-merge-two-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -245,6 +247,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0136-single-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
