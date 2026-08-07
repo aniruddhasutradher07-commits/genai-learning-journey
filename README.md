@@ -127,6 +127,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0202-happy-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
