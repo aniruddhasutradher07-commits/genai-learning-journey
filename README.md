@@ -126,6 +126,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0168-excel-sheet-column-title](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
@@ -263,6 +264,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -467,5 +469,6 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
