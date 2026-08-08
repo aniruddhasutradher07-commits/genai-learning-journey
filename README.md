@@ -130,6 +130,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0263-ugly-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0342-power-of-four) |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
@@ -151,6 +152,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -266,6 +268,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
