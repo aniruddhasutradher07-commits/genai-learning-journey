@@ -129,6 +129,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0326-power-of-three) |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
@@ -149,6 +150,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0206-reverse-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 ## String
 |  |
