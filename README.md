@@ -173,6 +173,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0242-valid-anagram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -243,6 +244,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0234-palindrome-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
