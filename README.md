@@ -265,6 +265,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0191-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
@@ -278,6 +279,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0118-pascals-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
