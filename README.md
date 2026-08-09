@@ -316,6 +316,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0404-sum-of-left-leaves) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -332,6 +333,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
@@ -350,6 +352,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -360,6 +363,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
