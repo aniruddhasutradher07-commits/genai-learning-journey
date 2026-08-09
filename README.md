@@ -157,6 +157,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0326-power-of-three](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 ## String
 |  |
 | ------- |
@@ -296,6 +297,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -304,6 +306,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
 | ------- |
@@ -327,6 +330,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -376,6 +380,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
