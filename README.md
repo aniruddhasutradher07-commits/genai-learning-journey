@@ -65,6 +65,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0414-third-maximum-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
+| [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
@@ -231,6 +232,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0225-implement-stack-using-queues](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -324,6 +326,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0563-binary-tree-tilt](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -372,6 +375,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0563-binary-tree-tilt](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
+| [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -397,6 +401,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0169-majority-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0191-number-of-1-bits) |
+| [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -541,4 +546,12 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
