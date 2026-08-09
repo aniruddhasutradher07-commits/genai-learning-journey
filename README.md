@@ -323,6 +323,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0543-diameter-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -346,6 +347,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0543-diameter-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -369,6 +371,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0543-diameter-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -382,6 +385,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0404-sum-of-left-leaves](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Divide and Conquer
