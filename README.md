@@ -270,6 +270,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0278-first-bad-version](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
@@ -539,6 +540,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0374-guess-number-higher-or-lower) |
 ## Minimax
 |  |
 | ------- |
