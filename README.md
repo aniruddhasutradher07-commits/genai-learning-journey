@@ -293,6 +293,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0338-counting-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
@@ -456,6 +457,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0401-binary-watch) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
