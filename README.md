@@ -186,6 +186,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0383-ransom-note](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0392-is-subsequence) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -260,6 +261,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0344-reverse-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0392-is-subsequence) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
@@ -305,6 +307,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0119-pascals-triangle-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
