@@ -152,6 +152,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -557,6 +558,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
 | ------- |
