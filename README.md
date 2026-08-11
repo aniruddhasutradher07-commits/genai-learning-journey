@@ -318,6 +318,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0389-find-the-difference](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
