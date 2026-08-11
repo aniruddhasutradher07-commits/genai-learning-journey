@@ -48,6 +48,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -89,6 +90,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0013-roman-to-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0146-lru-cache) |
@@ -482,6 +484,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -491,6 +494,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0401-binary-watch) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -646,4 +650,12 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0459-repeated-substring-pattern) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
