@@ -145,6 +145,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0342-power-of-four](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0412-fizz-buzz) |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
@@ -199,6 +200,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0392-is-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0412-fizz-buzz) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -315,6 +317,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
