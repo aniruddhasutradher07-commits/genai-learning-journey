@@ -147,6 +147,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0441-arranging-coins) |
 | [0470-implement-rand10-using-rand7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
@@ -299,6 +300,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0441-arranging-coins) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
