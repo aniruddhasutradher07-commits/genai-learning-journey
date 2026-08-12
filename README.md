@@ -162,6 +162,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0492-construct-the-rectangle) |
+| [0728-self-dividing-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0728-self-dividing-numbers) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
