@@ -218,6 +218,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
