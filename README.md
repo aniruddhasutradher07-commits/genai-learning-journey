@@ -118,6 +118,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3945-digit-frequency-score](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -173,6 +174,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3345-smallest-divisible-digit-product-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
