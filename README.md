@@ -136,6 +136,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0013-roman-to-integer) |
