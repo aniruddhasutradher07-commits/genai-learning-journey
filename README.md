@@ -77,6 +77,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
@@ -110,6 +111,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
@@ -520,6 +522,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0219-contains-duplicate-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0219-contains-duplicate-ii) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Graph Theory
 |  |
 | ------- |
