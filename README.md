@@ -74,6 +74,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
+| [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
@@ -124,6 +125,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
