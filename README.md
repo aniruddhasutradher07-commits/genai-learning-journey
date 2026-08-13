@@ -75,6 +75,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
@@ -126,6 +127,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -149,6 +151,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0203-remove-linked-list-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -617,6 +620,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0225-implement-stack-using-queues](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
@@ -668,6 +672,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 ## Monotonic Stack
 |  |
 | ------- |
