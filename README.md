@@ -69,6 +69,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
@@ -115,6 +116,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0409-longest-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
