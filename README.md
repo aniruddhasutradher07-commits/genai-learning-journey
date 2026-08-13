@@ -67,6 +67,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0414-third-maximum-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
@@ -111,6 +112,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0387-first-unique-character-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -284,6 +286,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0225-implement-stack-using-queues](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 ## Two Pointers
 |  |
@@ -642,6 +645,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
 |  |
