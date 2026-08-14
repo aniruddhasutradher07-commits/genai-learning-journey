@@ -92,6 +92,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -286,6 +287,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
@@ -302,6 +304,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Database
 |  |
@@ -401,6 +404,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
 |  |
@@ -570,6 +574,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
