@@ -79,6 +79,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
+| [1046-last-stone-weight](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -283,6 +284,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Database
