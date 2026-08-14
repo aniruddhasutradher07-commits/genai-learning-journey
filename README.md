@@ -90,6 +90,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -281,6 +282,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
@@ -295,6 +297,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Database
 |  |
@@ -538,6 +541,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0011-container-with-most-water](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0409-longest-palindrome) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
