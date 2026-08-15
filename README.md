@@ -768,4 +768,5 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1114-print-in-order) |
+| [1117-building-h2o](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1117-building-h2o) |
 <!---LeetCode Topics End-->
