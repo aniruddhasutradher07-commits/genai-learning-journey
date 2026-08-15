@@ -98,6 +98,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -394,6 +395,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0461-hamming-distance](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
