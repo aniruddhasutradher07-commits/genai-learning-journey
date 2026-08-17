@@ -334,6 +334,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0607-sales-person](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0620-not-boring-movies) |
 ## Trie
 |  |
 | ------- |
