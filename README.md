@@ -86,6 +86,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
@@ -201,6 +202,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -436,6 +438,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
@@ -614,6 +617,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
