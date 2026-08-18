@@ -355,6 +355,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1517-find-users-with-valid-e-mails](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [3374-first-letter-capitalization-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3374-first-letter-capitalization-ii) |
 ## Trie
 |  |
 | ------- |
