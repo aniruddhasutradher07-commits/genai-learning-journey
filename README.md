@@ -347,6 +347,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1211-queries-quality-and-percentage](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Trie
 |  |
 | ------- |
