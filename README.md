@@ -351,6 +351,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1517-find-users-with-valid-e-mails) |
 ## Trie
 |  |
 | ------- |
