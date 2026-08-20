@@ -365,6 +365,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1667-fix-names-in-a-table](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1729-find-followers-count) |
 | [3374-first-letter-capitalization-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3374-first-letter-capitalization-ii) |
 ## Trie
 |  |
