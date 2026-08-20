@@ -369,6 +369,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1789-primary-department-for-each-employee) |
 | [3374-first-letter-capitalization-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3374-first-letter-capitalization-ii) |
 ## Trie
 |  |
