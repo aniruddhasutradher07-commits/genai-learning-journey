@@ -382,6 +382,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1978-employees-whose-manager-left-the-company](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3374-first-letter-capitalization-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3374-first-letter-capitalization-ii) |
+| [3436-find-valid-emails](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3436-find-valid-emails) |
 ## Trie
 |  |
 | ------- |
