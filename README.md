@@ -79,6 +79,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1046-last-stone-weight](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1046-last-stone-weight) |
@@ -301,6 +302,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
