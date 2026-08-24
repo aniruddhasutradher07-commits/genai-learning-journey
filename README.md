@@ -90,6 +90,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1046-last-stone-weight](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -321,6 +322,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0977-squares-of-a-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
+| [1051-height-checker](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -898,6 +900,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
@@ -906,4 +909,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
