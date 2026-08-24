@@ -83,6 +83,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1046-last-stone-weight](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
@@ -308,6 +309,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -436,6 +438,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0392-is-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
