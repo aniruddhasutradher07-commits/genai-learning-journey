@@ -66,6 +66,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
@@ -311,6 +312,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0414-third-maximum-number) |
+| [0475-heaters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -453,6 +455,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0345-reverse-vowels-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0392-is-subsequence) |
+| [0475-heaters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0475-heaters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
@@ -477,6 +480,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0367-valid-perfect-square](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0475-heaters) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
