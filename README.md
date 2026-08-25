@@ -105,6 +105,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -169,6 +170,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -346,6 +348,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
