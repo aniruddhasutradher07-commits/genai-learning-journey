@@ -103,6 +103,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
@@ -344,6 +345,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -685,6 +687,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
