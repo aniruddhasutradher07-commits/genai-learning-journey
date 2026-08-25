@@ -100,6 +100,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -164,6 +165,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -339,6 +341,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -922,6 +925,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0561-array-partition](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
