@@ -82,6 +82,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
@@ -166,6 +167,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -305,6 +307,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
