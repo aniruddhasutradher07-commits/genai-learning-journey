@@ -84,6 +84,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0766-toeplitz-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
@@ -237,6 +238,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0728-self-dividing-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
+| [0812-largest-triangle-area](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
@@ -806,6 +808,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0478-generate-random-point-in-a-circle) |
+| [0812-largest-triangle-area](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0836-rectangle-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 ## Biconnected Component
@@ -964,6 +967,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
