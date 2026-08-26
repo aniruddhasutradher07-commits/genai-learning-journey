@@ -304,6 +304,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -493,6 +494,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
