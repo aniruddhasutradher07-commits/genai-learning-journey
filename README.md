@@ -165,6 +165,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -302,6 +303,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
