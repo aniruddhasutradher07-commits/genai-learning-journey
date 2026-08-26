@@ -307,6 +307,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -758,6 +759,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Graph Theory
