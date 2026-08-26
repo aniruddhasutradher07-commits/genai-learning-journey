@@ -235,6 +235,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
