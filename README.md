@@ -72,6 +72,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -569,6 +570,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0258-add-digits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -762,6 +764,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0766-toeplitz-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
