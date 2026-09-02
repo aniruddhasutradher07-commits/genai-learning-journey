@@ -239,6 +239,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0492-construct-the-rectangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -279,6 +280,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0326-power-of-three](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 ## String
 |  |
@@ -581,6 +583,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0338-counting-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0509-fibonacci-number) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
@@ -596,6 +599,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
