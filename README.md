@@ -83,6 +83,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
