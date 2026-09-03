@@ -642,6 +642,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0637-average-of-levels-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
@@ -674,6 +675,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0617-merge-two-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
@@ -702,6 +704,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0637-average-of-levels-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
