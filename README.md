@@ -79,6 +79,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
@@ -825,6 +826,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
