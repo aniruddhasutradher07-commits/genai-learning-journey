@@ -75,6 +75,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0566-reshape-the-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0645-set-mismatch) |
@@ -242,6 +243,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0504-base-7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
