@@ -323,6 +323,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0415-add-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0520-detect-capital) |
