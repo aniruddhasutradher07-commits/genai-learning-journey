@@ -67,6 +67,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0414-third-maximum-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
