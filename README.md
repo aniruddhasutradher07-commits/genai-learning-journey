@@ -57,6 +57,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0118-pascals-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0217-contains-duplicate) |
@@ -680,6 +681,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0110-balanced-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
@@ -740,6 +742,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0404-sum-of-left-leaves) |
@@ -811,6 +814,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
+| [0130-surrounded-regions](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0661-image-smoother) |
@@ -1066,5 +1070,6 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0130-surrounded-regions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
