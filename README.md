@@ -336,6 +336,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
@@ -524,6 +525,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0557-reverse-words-in-a-string-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
