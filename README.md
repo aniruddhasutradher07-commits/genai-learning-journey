@@ -85,6 +85,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -498,6 +499,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0589-n-ary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -588,6 +590,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0415-add-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
