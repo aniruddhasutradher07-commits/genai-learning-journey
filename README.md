@@ -272,6 +272,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0836-rectangle-overlap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
@@ -637,6 +638,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
+| [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
@@ -650,6 +652,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
+| [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 ## Tree
 |  |
 | ------- |
@@ -864,6 +867,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
+| [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
@@ -888,6 +892,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
+| [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 ## Rejection Sampling
@@ -977,6 +982,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Minimax
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
@@ -984,6 +990,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
@@ -1091,4 +1098,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0130-surrounded-regions](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0130-surrounded-regions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Topological Sort
+|  |
+| ------- |
+| [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 <!---LeetCode Topics End-->
