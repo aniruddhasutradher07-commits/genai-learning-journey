@@ -95,6 +95,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0717-1-bit-and-2-bit-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
@@ -569,6 +570,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0441-arranging-coins](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
