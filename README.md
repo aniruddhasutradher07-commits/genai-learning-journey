@@ -98,6 +98,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0806-number-of-lines-to-write-string) |
@@ -190,6 +191,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
@@ -350,6 +352,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0680-valid-palindrome-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
