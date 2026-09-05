@@ -96,6 +96,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0724-find-pivot-index](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
@@ -627,6 +628,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0392-is-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0808-soup-servings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
