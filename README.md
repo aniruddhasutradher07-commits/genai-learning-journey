@@ -243,6 +243,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0231-power-of-two) |
@@ -588,6 +589,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0191-number-of-1-bits) |
@@ -853,6 +855,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
+| [0089-gray-code](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0401-binary-watch) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
