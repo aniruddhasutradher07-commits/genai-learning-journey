@@ -90,6 +90,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0697-degree-of-an-array) |
+| [0699-falling-squares](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1035,6 +1036,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Segment Tree
 |  |
 | ------- |
+| [0699-falling-squares](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0699-falling-squares) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Fermat's Little Theorem
@@ -1060,6 +1062,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Ordered Set
 |  |
 | ------- |
+| [0699-falling-squares](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0699-falling-squares) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Data Stream
 |  |
