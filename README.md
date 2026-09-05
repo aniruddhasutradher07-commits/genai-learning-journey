@@ -275,6 +275,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
+| [1103-distribute-candies-to-people](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
@@ -617,6 +618,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0566-reshape-the-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0682-baseball-game) |
+| [1103-distribute-candies-to-people](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
