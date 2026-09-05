@@ -343,6 +343,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0657-robot-return-to-origin](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0804-unique-morse-code-words) |
