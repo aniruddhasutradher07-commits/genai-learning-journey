@@ -107,6 +107,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0819-most-common-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
@@ -833,6 +834,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0561-array-partition](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
