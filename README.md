@@ -310,6 +310,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0002-add-two-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0206-reverse-linked-list) |
@@ -332,6 +333,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0020-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0115-distinct-subsequences) |
@@ -656,6 +658,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0118-pascals-triangle) |
@@ -830,6 +833,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0605-can-place-flowers) |
