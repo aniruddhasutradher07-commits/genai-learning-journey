@@ -328,6 +328,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0205-isomorphic-strings) |
@@ -637,6 +638,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
