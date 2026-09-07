@@ -633,6 +633,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0693-binary-number-with-alternating-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
