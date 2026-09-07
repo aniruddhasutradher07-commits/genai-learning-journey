@@ -239,6 +239,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0206-reverse-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -575,6 +576,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0821-shortest-distance-to-a-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
