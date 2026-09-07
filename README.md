@@ -379,6 +379,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0844-backspace-string-compare](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0899-orderly-queue) |
+| [0940-distinct-subsequences-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -674,6 +675,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 | [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
+| [0940-distinct-subsequences-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
