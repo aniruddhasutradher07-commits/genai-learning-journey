@@ -1023,6 +1023,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0303-range-sum-query-immutable](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
+| [0933-number-of-recent-calls](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0933-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
@@ -1038,6 +1039,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0225-implement-stack-using-queues](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1140,6 +1142,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0933-number-of-recent-calls) |
 ## Concurrency
 |  |
 | ------- |
