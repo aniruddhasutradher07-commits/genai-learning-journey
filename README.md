@@ -70,6 +70,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0414-third-maximum-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0475-heaters) |
+| [0480-sliding-window-median](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
@@ -195,6 +196,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0387-first-unique-character-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0409-longest-palindrome) |
+| [0480-sliding-window-median](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0575-distribute-candies) |
@@ -468,6 +470,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0023-merge-k-sorted-lists) |
+| [0480-sliding-window-median](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1046-last-stone-weight) |
@@ -964,6 +967,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0003-longest-substring-without-repeating-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0219-contains-duplicate-ii) |
+| [0480-sliding-window-median](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
@@ -1205,4 +1209,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
