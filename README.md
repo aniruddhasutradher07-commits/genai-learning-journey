@@ -394,6 +394,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0859-buddy-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0899-orderly-queue](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0899-orderly-queue) |
+| [0925-long-pressed-name](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -593,6 +594,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0876-middle-of-the-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0925-long-pressed-name) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
