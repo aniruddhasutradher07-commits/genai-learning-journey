@@ -112,6 +112,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
@@ -286,6 +287,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0899-orderly-queue) |
 | [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
@@ -895,6 +897,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0832-flipping-an-image](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
@@ -977,6 +980,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0812-largest-triangle-area](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 ## Biconnected Component
 |  |
