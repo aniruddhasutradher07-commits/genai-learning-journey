@@ -749,6 +749,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0872-leaf-similar-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -784,6 +785,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -818,6 +820,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0872-leaf-similar-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0872-leaf-similar-trees) |
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -862,6 +865,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
 ## Greedy
 |  |
 | ------- |
