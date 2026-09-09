@@ -164,6 +164,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
+| [3668-restore-finishing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
@@ -233,6 +234,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3668-restore-finishing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
