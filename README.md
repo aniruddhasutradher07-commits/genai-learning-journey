@@ -169,6 +169,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -934,6 +935,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
 | ------- |
@@ -985,6 +987,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Rejection Sampling
 |  |
 | ------- |
