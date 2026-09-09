@@ -175,6 +175,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3898-find-the-degree-of-each-vertex](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -702,6 +703,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
