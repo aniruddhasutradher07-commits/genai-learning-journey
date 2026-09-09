@@ -314,6 +314,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2769-find-the-maximum-achievable-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
