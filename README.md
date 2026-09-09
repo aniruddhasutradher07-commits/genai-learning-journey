@@ -236,6 +236,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -422,6 +423,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
