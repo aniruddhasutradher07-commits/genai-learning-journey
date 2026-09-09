@@ -421,6 +421,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3110-score-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
