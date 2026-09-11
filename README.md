@@ -129,6 +129,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0989-add-to-array-form-of-integer) |
+| [0997-find-the-town-judge](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
@@ -232,6 +233,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0929-unique-email-addresses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -1037,6 +1039,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | ------- |
 | [0133-clone-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0133-clone-graph) |
 | [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
+| [0997-find-the-town-judge](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3898-find-the-degree-of-each-vertex) |
