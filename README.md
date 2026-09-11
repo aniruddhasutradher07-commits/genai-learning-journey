@@ -123,6 +123,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0941-valid-mountain-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -227,6 +228,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0888-fair-candy-swap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0929-unique-email-addresses) |
+| [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -428,6 +430,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0940-distinct-subsequences-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
