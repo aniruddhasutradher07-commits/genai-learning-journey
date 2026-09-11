@@ -120,6 +120,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0941-valid-mountain-array) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0977-squares-of-a-sorted-array) |
