@@ -794,6 +794,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
@@ -831,6 +832,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0872-leaf-similar-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
@@ -867,6 +869,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -888,6 +891,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Divide and Conquer
