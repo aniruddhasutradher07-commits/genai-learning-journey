@@ -438,6 +438,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0942-di-string-match](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -945,6 +946,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
