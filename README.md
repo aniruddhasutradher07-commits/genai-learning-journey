@@ -281,6 +281,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0234-palindrome-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
@@ -745,6 +746,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1929-concatenation-of-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
