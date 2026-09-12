@@ -163,6 +163,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2942-find-words-containing-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -452,6 +453,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2942-find-words-containing-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3110-score-of-a-string) |
