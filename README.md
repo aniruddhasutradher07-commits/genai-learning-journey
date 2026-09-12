@@ -181,6 +181,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3718-smallest-missing-multiple-of-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -459,6 +460,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3838-weighted-word-mapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -734,6 +736,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3838-weighted-word-mapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
