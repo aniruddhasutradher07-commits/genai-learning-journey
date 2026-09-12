@@ -185,6 +185,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
@@ -757,6 +758,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
