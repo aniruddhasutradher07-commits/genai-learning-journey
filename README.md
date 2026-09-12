@@ -157,6 +157,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -738,6 +739,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1103-distribute-candies-to-people](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
