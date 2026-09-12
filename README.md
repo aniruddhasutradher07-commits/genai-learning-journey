@@ -180,6 +180,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3467-transform-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -529,6 +530,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3467-transform-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -1000,6 +1002,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3467-transform-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3467-transform-array-by-parity) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
