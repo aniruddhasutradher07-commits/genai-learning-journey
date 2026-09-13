@@ -154,6 +154,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1512-number-of-good-pairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
@@ -1030,6 +1031,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
