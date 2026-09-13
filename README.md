@@ -371,6 +371,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3345-smallest-divisible-digit-product-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
