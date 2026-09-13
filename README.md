@@ -266,6 +266,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3483-unique-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -479,6 +480,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3110-score-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3110-score-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -1006,6 +1008,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
