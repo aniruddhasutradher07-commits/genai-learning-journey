@@ -108,6 +108,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0819-most-common-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
@@ -1015,6 +1016,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0733-flood-fill](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0892-surface-area-of-3d-shapes) |
