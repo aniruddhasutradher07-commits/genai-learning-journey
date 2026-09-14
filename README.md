@@ -363,6 +363,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2235-add-two-integers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2469-convert-the-temperature) |
