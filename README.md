@@ -366,6 +366,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -482,6 +483,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3280-convert-date-to-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
