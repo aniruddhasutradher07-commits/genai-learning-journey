@@ -494,6 +494,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
@@ -692,6 +693,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3794-reverse-string-prefix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
