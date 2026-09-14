@@ -472,6 +472,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0944-delete-columns-to-make-sorted](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
