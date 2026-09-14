@@ -171,6 +171,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2942-find-words-containing-character) |
@@ -751,6 +752,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
