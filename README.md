@@ -496,6 +496,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3280-convert-date-to-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -788,6 +789,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2500-delete-greatest-value-in-each-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3925-concatenate-array-with-reverse) |
