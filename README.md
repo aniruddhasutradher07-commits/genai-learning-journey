@@ -355,6 +355,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1103-distribute-candies-to-people](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
@@ -757,6 +758,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1009-complement-of-base-10-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
