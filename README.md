@@ -277,6 +277,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3146-permutation-difference-between-two-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -502,6 +503,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
