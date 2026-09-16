@@ -479,6 +479,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0944-delete-columns-to-make-sorted](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1022,6 +1023,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1045,6 +1047,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0819-most-common-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
