@@ -154,6 +154,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -266,6 +267,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -744,6 +746,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -835,6 +838,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0940-distinct-subsequences-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1139,6 +1143,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
