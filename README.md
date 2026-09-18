@@ -169,6 +169,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1929-concatenation-of-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -563,6 +564,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -1049,6 +1051,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1361,6 +1364,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1051-height-checker](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Quicksort
 |  |
 | ------- |
