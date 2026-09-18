@@ -269,6 +269,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -487,6 +488,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1678-goal-parser-interpretation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -559,6 +561,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -1039,6 +1042,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2029-stone-game-ix) |
