@@ -368,6 +368,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1103-distribute-candies-to-people](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
@@ -1201,6 +1202,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Biconnected Component
 |  |
 | ------- |
