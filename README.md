@@ -504,6 +504,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1871-jump-game-vii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -856,6 +857,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1871-jump-game-vii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1164,6 +1166,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0643-maximum-average-subarray-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1871-jump-game-vii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1254,6 +1257,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1480-running-sum-of-1d-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1871-jump-game-vii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3903-smallest-stable-index-i) |
