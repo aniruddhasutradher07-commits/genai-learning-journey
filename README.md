@@ -202,6 +202,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3701-compute-alternating-sum) |
@@ -399,6 +400,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3516-find-closest-person) |
+| [3524-find-x-value-of-array-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -863,6 +865,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3524-find-x-value-of-array-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
