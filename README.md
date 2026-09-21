@@ -925,6 +925,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0993-cousins-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -966,6 +967,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -1004,6 +1006,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0993-cousins-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1026,6 +1029,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0993-cousins-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Divide and Conquer
