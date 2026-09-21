@@ -165,6 +165,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1720-decode-xored-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1720-decode-xored-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1816-truncate-sentence) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -378,6 +379,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1927-sum-game) |
@@ -1213,6 +1215,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0892-surface-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Biconnected Component
 |  |
 | ------- |
