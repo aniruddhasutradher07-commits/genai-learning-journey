@@ -51,6 +51,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0027-remove-element](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -850,6 +851,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0118-pascals-triangle) |
@@ -1114,6 +1116,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0566-reshape-the-matrix) |
