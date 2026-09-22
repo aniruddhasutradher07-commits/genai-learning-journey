@@ -207,6 +207,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3483-unique-3-digit-even-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3701-compute-alternating-sum) |
@@ -408,6 +409,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1348,6 +1350,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0699-falling-squares](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0699-falling-squares) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3525-find-x-value-of-array-ii) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
