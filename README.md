@@ -161,6 +161,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1720-decode-xored-array) |
@@ -281,6 +282,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -776,6 +778,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1346-check-if-n-and-its-double-exist](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1190,6 +1193,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0643-maximum-average-subarray-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0837-new-21-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1281,6 +1285,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1871-jump-game-vii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
