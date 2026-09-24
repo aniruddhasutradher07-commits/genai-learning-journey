@@ -257,6 +257,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0480-sliding-window-median](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -484,6 +485,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0504-base-7](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -1271,6 +1273,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0225-implement-stack-using-queues](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0933-number-of-recent-calls) |
@@ -1347,6 +1350,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 ## Monotonic Stack
