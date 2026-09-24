@@ -156,6 +156,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1470-shuffle-the-array) |
+| [1476-subrectangle-queries](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1512-number-of-good-pairs) |
@@ -1143,6 +1144,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1476-subrectangle-queries](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1476-subrectangle-queries) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1268,6 +1270,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0703-kth-largest-element-in-a-stream](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0933-number-of-recent-calls) |
+| [1476-subrectangle-queries](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
