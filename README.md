@@ -389,6 +389,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1563-stone-game-v](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1622-fancy-sequence) |
+| [1688-count-of-matches-in-tournament](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1872-stone-game-viii) |
@@ -842,6 +843,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1603-design-parking-system) |
+| [1688-count-of-matches-in-tournament](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
