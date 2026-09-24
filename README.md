@@ -1219,6 +1219,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [0997-find-the-town-judge](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
+| [1791-find-center-of-star-graph](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1791-find-center-of-star-graph) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Rejection Sampling
