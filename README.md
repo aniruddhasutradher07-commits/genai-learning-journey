@@ -149,6 +149,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1386-cinema-seat-allocation) |
+| [1389-create-target-array-in-the-given-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1389-create-target-array-in-the-given-order) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -837,6 +838,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0999-available-captures-for-rook](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0999-available-captures-for-rook) |
 | [1103-distribute-candies-to-people](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1929-concatenation-of-array) |
