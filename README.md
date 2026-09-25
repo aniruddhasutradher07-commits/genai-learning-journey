@@ -277,6 +277,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -514,6 +515,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0944-delete-columns-to-make-sorted](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -583,6 +585,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -713,6 +716,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0844-backspace-string-compare](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1049,6 +1053,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0993-cousins-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1302-deepest-leaves-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/3310-remove-methods-from-project) |
@@ -1167,6 +1172,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0089-gray-code](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
