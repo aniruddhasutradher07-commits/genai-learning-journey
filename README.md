@@ -526,6 +526,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -730,6 +731,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0844-backspace-string-compare](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
