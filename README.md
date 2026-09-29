@@ -387,6 +387,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1103-distribute-candies-to-people](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
@@ -899,6 +900,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0894-all-possible-full-binary-trees](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0894-all-possible-full-binary-trees) |
 | [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
 | [0940-distinct-subsequences-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -1216,6 +1218,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0486-predict-the-winner](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0913-cat-and-mouse) |
+| [1025-divisor-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1510-stone-game-iv) |
@@ -1510,6 +1513,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2396-strictly-palindromic-number) |
 ## Bracket Sequences
 |  |
@@ -1518,4 +1522,8 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
