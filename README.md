@@ -133,6 +133,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0989-add-to-array-form-of-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0999-available-captures-for-rook) |
+| [1002-find-common-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
 | [1046-last-stone-weight](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1046-last-stone-weight) |
@@ -279,6 +280,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1002-find-common-characters) |
 | [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -517,6 +519,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0942-di-string-match](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0953-verifying-an-alien-dictionary) |
+| [1002-find-common-characters](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1108-defanging-an-ip-address) |
