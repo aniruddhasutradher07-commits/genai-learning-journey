@@ -959,6 +959,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1001,6 +1002,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1192-critical-connections-in-a-network) |
 | [1302-deepest-leaves-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1302-deepest-leaves-sum) |
@@ -1042,6 +1044,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0938-range-sum-of-bst](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
