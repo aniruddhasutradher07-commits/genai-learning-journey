@@ -138,6 +138,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1122-relative-sort-array) |
@@ -389,6 +390,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0989-add-to-array-form-of-integer](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1037-valid-boomerang) |
 | [1103-distribute-candies-to-people](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1103-distribute-candies-to-people) |
 | [1140-stone-game-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -1278,6 +1280,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0883-projection-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1037-valid-boomerang) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Biconnected Component
