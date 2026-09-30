@@ -532,6 +532,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1078-occurrences-after-bigram](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1078-occurrences-after-bigram) |
 | [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1108-defanging-an-ip-address) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -736,6 +737,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -1529,6 +1531,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
