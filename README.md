@@ -469,6 +469,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0014-longest-common-prefix](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0032-longest-valid-parentheses) |
@@ -893,6 +894,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0064-minimum-path-sum) |
@@ -1202,6 +1204,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0037-sudoku-solver) |
 | [0089-gray-code](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0257-binary-tree-paths) |
@@ -1534,6 +1537,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
