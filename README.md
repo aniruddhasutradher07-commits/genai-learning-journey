@@ -471,6 +471,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0020-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0067-add-binary) |
@@ -720,6 +721,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0145-binary-tree-postorder-traversal) |
@@ -891,6 +893,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0070-climbing-stairs) |
@@ -1531,6 +1534,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
