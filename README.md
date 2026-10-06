@@ -524,6 +524,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0859-buddy-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0899-orderly-queue](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0899-orderly-queue) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0940-distinct-subsequences-ii) |
@@ -741,6 +742,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0682-baseball-game](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1096-brace-expansion-ii) |
@@ -1134,6 +1136,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0678-valid-parenthesis-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0942-di-string-match) |
 | [0969-pancake-sorting](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0976-largest-perimeter-triangle) |
@@ -1549,6 +1552,7 @@ B.Tech Biotechnology student, building AI/ML projects alongside coursework.
 | [0022-generate-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aniruddhasutradher07-commits/genai-learning-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
